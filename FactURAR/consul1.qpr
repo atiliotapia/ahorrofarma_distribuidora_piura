@@ -1,0 +1,4 @@
+SELECT Recibo.serie_pago, Recibo.numero_pag, SUM( Recibo.monto);
+ FROM recibo;
+ GROUP BY Recibo.serie_pago, Recibo.numero_pag;
+ INTO TABLE c:\pagos.dbf

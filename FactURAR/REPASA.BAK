@@ -1,0 +1,25 @@
+SELE A
+USE AYUDA
+SELE B
+USE MEDICTDO
+SET ORDE TO REGISTRO
+SELE A
+GO TOP
+DO WHILE !EOF()
+   X=REGISTRO
+   IF X<67213
+      IF DIF!=0
+         DIF1=DIF
+         SELE B
+         SEEK X
+         IF FOUN()
+            WAIT WIND +STR(DIF1,8,2)
+            BROW
+            REPLA REDONDEO WITH DIF1
+         ENDIF
+      ENDIF
+   ENDIF
+   SELE A
+   SKIP
+ENDDO
+

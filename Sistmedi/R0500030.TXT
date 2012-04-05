@@ -1,0 +1,9 @@
+ 4
+       49.07
+01/08/2011
+B001DISTRIB. AHORROFARMA SCRL                         
+4.D0091DIVA CONCHA DE NACAR X 60 GR                                                                                            POT       L014LA COOPER                 2.00       12.35                 01
+4.D0092DIVA LECHUGA X 60 GR                                                                                                    POT       L014LA COOPER                 1.00        4.84                 01
+4.D0093DIVA ROSA MOSQUETA X 60G                                                                                                POT       L014LA COOPER                 2.00       11.88                 01
+4.D0038DERMOLIP BEBE SPF 49 X 60 GR                                                                                            TBO       L014LA COOPER                 2.00       20.00                 01
+>

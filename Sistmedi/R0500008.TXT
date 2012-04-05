@@ -1,0 +1,18 @@
+13
+     2641.14
+01/03/2011
+B001DISTRIB. AHORROFARMA SCRL                         
+1.B3548BENALGIN INY. CJA X 1 AMP                                                                                               AMP       L004LUSA                     10.00       81.43                 01
+1.L2548LUSADEINA FUERTE CJA X 12 CAP                                                                                           CJA       L004LUSA                      2.00       51.12                 01
+1.A3433AMIKAGRAM 1GR/4ML                                                                                                       AMP       L004LUSA                     19.00      700.43                 01
+1.B3543BENALGYN FLEX CJA x 2 AMP                                                                                               AMP       L004LUSA                     30.00      495.56                 01
+1.B6544BRONCOTOS JBE X 120 ML                                                                                                  FCO       L004LUSA                      5.00       55.23                 01
+1.C2436CEBRUM INY. 500MG/4ML CJA X 2 AMP                                                                                       AMP       L004LUSA                      3.00       64.30                 01
+1.D4654DOLO BENALGIN X 2 AMP                                                                                                   AMP       L004LUSA                     20.00      245.15                 01
+1.B3245BENALGIN 10000 AMP X 2 ML                                                                                               AMP       L004LUSA                     22.00      284.75                 01
+1.D1358DEXAMETASONA 4 MG CJA X 25 AMP (LUSA)                                                                                   AMP       L004LUSA                    350.00      126.07                 01
+1.L5473LUSAPRIM PED. 200/40MG FCO X 60 ML                                                                                      FCO       L004LUSA                     12.00       18.00                 01
+1.D5434DEXA BENALGIN 5000 CJA X 2 AMP                                                                                          AMP       L004LUSA                     12.00      173.42                 01
+1.B3543BENALGYN FLEX CJA x 2 AMP                                                                                               AMP       L004LUSA                     12.00      198.22                 01
+1.A3433AMIKAGRAM 1GR/4ML                                                                                                       AMP       L004LUSA                      4.00      147.46                 01
+>

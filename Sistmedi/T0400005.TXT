@@ -1,0 +1,104 @@
+99
+    80377.39
+30/05/2011
+B001DISTRIB. AHORROFARMA SCRL                         
+1.E0003EFER C CJA X 100 SOBRES                                                                                                 CJA       F004FARMACEUTICA DEL PAC     19.00      892.81                 01
+1.R6865REPRIMAN 500 MG CJA X 100 TAB                                                                                           CJA       Q001QUILAB                   32.00      432.16                 01
+1.P0002PHARMATON X 30 CAP                                                                                                      FCO       B004BOEHRINGER INGELHEIM     68.00     1485.34                 29
+1.D3645DEXAVET 4 MG CJA X 150 TAB                                                                                              CJA       F008FARVET                   27.00     2616.35                 01
+1.P5442PARACETAMOL 500 MG CJA X 100 TAB (QUILAB)                                                                               CJA       Q001QUILAB                   84.00      294.07                 01
+1.D5236DEXAVET DIEPHAR ELIXIR X 60 MONODOSIS                                                                                   CJA       F008FARVET                   27.00      789.35                 01
+1.M0000MAFIDOL DIEPHAR X 60 MONODOSIS                                                                                          CJA       F008FARVET                   35.00      928.14                 01
+1.D0010DEXTROMETORFANO DIEPHAR X 60 MONODOSIS                                                                                  CJA       F008FARVET                   36.00      918.58                 01
+1.R2454REPRIMAN JARABE X 50 ML                                                                                                 FCO       Q001QUILAB                   26.00      194.34                 01
+1.C0006CLORFENAMINA DIEPHAR X 60 MONODOSIS                                                                                     CJA       F008FARVET                   18.00      397.76                 01
+1.E6224ELITON FORTE JARABE FCO X 40 ML                                                                                         FCO       E002ELIFARMA S.A.            49.00     1005.48                 01
+1.A2547ASSIS 400 SUSPENSION X 220 ML                                                                                           FCO       E002ELIFARMA S.A.            94.00     1507.16                 01
+1.S3242SILENAI CL PEDIATRICO JBE X 120 ML                                                                                      FCO       E002ELIFARMA S.A.            58.00      994.93                 01
+1.E3215ELIPRIM PEDIATRICO SUSP X 60 ML                                                                                         FCO       E002ELIFARMA S.A.            12.00       88.36                 01
+1.E5455ELIPRIM BALSAMICO SUSP. X 100 ML                                                                                        FCO       E002ELIFARMA S.A.            18.00      180.14                 01
+2.E1354ESPAR. ANTIAL. GYPSYPLAST 25MMX4.5 M                                                                                    UND       M008MATERIAL MEDICO         144.00      336.00                 01
+2.E1565ESPAR. IMPERM. GYPSYPLAST 25MMX0.9M                                                                                     UND       M008MATERIAL MEDICO         168.00       84.00                 01
+1.P1688PVM VAINILLA X 1 KG                                                                                                     FCO       H001HERSIL                    2.00       87.31                 01
+1.P6488PVM CHOCOLATE X 1 KG                                                                                                    FCO       H001HERSIL                    3.00      130.96                 01
+1.P5552PVM FRESA X 1 KG                                                                                                        FCO       H001HERSIL                    2.00       86.29                 01
+1.D5532DOLORAL 100 MG SUSP. X 60 ML                                                                                            JBE       H001HERSIL                  102.00      800.86                 01
+1.B4435BETACREM CREMA DERMICA X 20 GR                                                                                          TBO       H001HERSIL                   56.00     1233.25                 01
+1.M3353MUCOVIT NF GOTAS X 15 ML                                                                                                GOT       H001HERSIL                   20.00      312.35                 01
+1.P6565PYRIDIUM 100 MG CJA X 100 TAB                                                                                           TAB       H001HERSIL                 1100.00     1406.68                 01
+1.V6545VITACOSE 2ML + JERINGA 3 ML                                                                                             AMP       C013CIPA                    400.00     2005.20                 01
+4.N4658NIVEA CREMA LTA X  30 ML                                                                                                LTA       P010PERFUMERIA              384.00      712.63                 01
+4.N3244NIVEA CREMA SOFT HUMECTANTE X 25 ML                                                                                     PTE       P010PERFUMERIA              204.00      474.34                 01
+1.B0001BRONCOMAX 500 CJA X 100 TAB                                 AMOXICILINA + BROMEXINA                                     CJA       M003MEDCO                    12.00      823.32                 09
+1.T2355TONIKON JARABE X 345 ML                                                                                                 FCO       H001HERSIL                   76.00     1093.56                 01
+1.M2316MAGAL D SUSPENCION X 200 ML                                                                                             JBE       H001HERSIL                   30.00      486.60                 01
+1.F8373FERRONICUM SOL ORAL FCO X 345 ML                                                                                        FCO       H001HERSIL                   48.00      948.68                 01
+1.R9873RANITIDINA 300 MG CJA X 100 TAB (MC GLOBE)                                                                              CJA       S016SOZIN FLORA PHARMA      277.00     1962.10                 01
+1.C6666CETIRIZINA 10MG CJA X 100 TAB (MC GLOBE)                    CETIRIZINA 10MG TAB                                         CJA       S016SOZIN FLORA PHARMA       74.00      546.48                 05
+1.L5566LANSOPRAZOL 30MG CJA X 50 CAP   (MC GLOBE )                 LANSOPRAZOL 30MG CAP                                        CJA       S016SOZIN FLORA PHARMA       48.00      738.47                 19
+1.A4252AZITROMICINA 500MG CJA X 3 TAB (MC GLOBE)                   AZITROMICINA                                                TAB       S016SOZIN FLORA PHARMA     2146.00     4470.76                 09
+1.A5525ANTILURG 5 MG CJA X 30 TAB(LEVOCETIRIZINA)                                                                              CJA       S016SOZIN FLORA PHARMA       72.00     1800.04                 01
+1.C7895CELECOXIB 200MG CJA X 100 CAP (MC GLOBE)                    CELECOXIB                                                   CJA       S016SOZIN FLORA PHARMA      175.00     3365.39                 01
+1.P6215PANTOPRAZOL 40 MG CJA X 50 TAB (MC GLOBE)                                                                               CJA       S016SOZIN FLORA PHARMA       21.00      840.00                 01
+1.L5525LEVOFLOXACINO 500MG CJA X 50TAB (MC GLOBE)                                                                              CJA       S016SOZIN FLORA PHARMA       48.00     2554.72                 01
+1.O0215OXITOCINA 10 UI/ML CJA X 100 AMP (PHARMAGEN)                                                                            AMP       P016PHARMAGEN              1000.00      420.00                 01
+1.O2000OXACILINA 1 GR (PHARMAGEN)                                                                                              AMP       P016PHARMAGEN               100.00      150.38                 01
+1.P0014PENICILINA BENZATINICA 1'200UI (PHARMAGEN)                                                                              AMP       P016PHARMAGEN               350.00      280.00                 01
+1.M6561METAMIZOL SODICO 1 GR/2ML (PHARMAGEN)                                                                                   AMP       P016PHARMAGEN               750.00      172.88                 01
+1.C3214CLORURO DE SODIO 20%/20ML (PHARMAGEN)                                                                                   AMP       P016PHARMAGEN               175.00      127.00                 01
+1.D0124DEXTROSA 33.3% X 20 ML (PHARMAGEN)                                                                                      AMP       P016PHARMAGEN              1175.00      775.97                 01
+1.F5852FITOMENADIONA 10MG/1ML (PHARMAGEN)                                                                                      AMP       P016PHARMAGEN               500.00      375.00                 01
+1.O5645OMEPRAZOL 40 MG CJA X 10 AMP (PHARMAGEN)                                                                                AMP       P016PHARMAGEN               120.00      516.00                 01
+1.C6522CEFALEXINA 500 MG CJA X 100 CAP (PHARMAGEN)                                                                             CJA       P016PHARMAGEN                 7.00      168.00                 01
+1.A2135AMOXICILINA 500 MA CJA X 100 TAB (PHARMAGEN)                                                                            CJA       P016PHARMAGEN                41.00      492.00                 01
+1.P5534PENICILINA PROCAINICA 1000 UI (PHARMAGEN)                                                                               AMP       P016PHARMAGEN               500.00      270.35                 01
+1.C6575CLOTOPIC 1% CREMA X 10 GR (CLOTRIMAZOL)                                                                                 TBO       L008LAFARPE                 300.00      360.00                 01
+1.C2456CALCIOFAR B12 SUSP. X 120 ML                                                                                            FCO       I009INDUFAR                  40.00      509.37                 01
+1.B6444BANES 100 MG/5ML SUSP. X 100 ML                                                                                         FCO       I009INDUFAR                  50.00      322.54                 01
+1.P2452PROCOPS 50 MG (SILDENAFILO) CJA X 10 COMP.                                                                              CJA       I009INDUFAR                  20.00      199.03                 01
+1.A0201ALCOHOL 70º X 60 ML (PORTUGAL)                                                                                          FCO       P005PORTUGAL                432.00      246.76                 01
+1.A0102ALCOHOL 70º X 120 ML (PORTUGAL)                                                                                         FCO       P005PORTUGAL                288.00      264.53                 01
+1.E3245ENDOVIT AL 5 % X 500 ML                                                                                                 FCO       T002TRIFARMA S.A.            24.00      425.99                 01
+1.E2435ENDOVIT 5% FCO X 1000 ML                                                                                                FCO       T002TRIFARMA S.A.            20.00      509.55                 01
+1.D0023DICLOFENACO 1% GEL X 50 GR C/CAJA (PORTUGAL)                                                                            TBO       P005PORTUGAL                144.00      356.83                 01
+1.D0020DICLOFENACO 1% GEL X 20 GR C/CAJA (PORTUGAL)                                                                            TBO       P005PORTUGAL                156.00      347.93                 01
+1.S2435SUPOSITORIO DE GLICERINA ADUL X 100 (ROXFARMA)                                                                          CJA       R005ROXFARMA                  6.00      105.41                 01
+1.R6542ROXTIL TBO X 10 GR                                                                                                      TBO       R005ROXFARMA                248.00      751.66                 01
+1.P6544PARACETAMOL 100MG/ML X 10 ML (ROXFARMA)                                                                                 GOT       R005ROXFARMA                 64.00       72.92                 01
+1.R1653ROXTRIM PEDIATRICO 200/40MG FCO X 60 ML                                                                                 JBE       R005ROXFARMA                 93.00      571.55                 01
+1.C0022CLORFENAMINA 2MG/5ML X 60 ML (ROXFARMA)                                                                                 FCO       R005ROXFARMA                212.00      368.90                 01
+1.N2436NOPRAXIN 125MG/5ML FCO X 60 ML (NAPROXENO)                                                                              FCO       R005ROXFARMA                 59.00      407.63                 01
+1.S0020SULFA + TRIMET 200/40/5ML X 60ML (ROXFARMA)                                                                             JBE       R005ROXFARMA                144.00      288.19                 01
+1.B6542BENZOATO DE BENCILO 25%  FCO X 60 ML (ROXFARMA)                                                                         FCO       R005ROXFARMA                 92.00      189.13                 01
+1.M3524MUCOTRIM DILAT (Ambroxol+clenbuterol) FCO X 120 ML                                                                      JBE       R005ROXFARMA                 48.00      492.47                 01
+1.B54B3BRONCO TOSSAN CJA X 100 TAB                                                                                             CJA       L009LUDBER                   40.00     2192.03                 01
+1.F4554FLOGOSYL CJA X 100 TAB                                                                                                  CJA       L009LUDBER                   40.00     2798.20                 01
+1.H5244HEPALUD B CJA X 100 CAP                                                                                                 CJA       L009LUDBER                   40.00     1760.21                 01
+1.F5524FURAZAL CJA X 100 TAB                                                                                                   CJA       L009LUDBER                   33.00     1253.85                 01
+1.L6564LOPERAM 2 MG CJA X 100 TAB                                                                                              CJA       L009LUDBER                   14.00      433.98                 01
+1.S3656SULFALUD BALSAMICO CJA X 100 TAB                                                                                        CJA       L009LUDBER                   30.00     1392.92                 01
+1.Z3414ZEZHATOS AB CJA X 100 CAP                                                                                               CJA       L009LUDBER                   11.00      707.84                 01
+1.G6552GRIPALUD CJA X 150 TAB                                                                                                  CJA       L009LUDBER                   25.00     1275.92                 01
+1.Z6542ZEDATH DOL CJA X 200 TAB                                                                                                CJA       L009LUDBER                   46.00     2299.97                 01
+1.U6321UROLUD-D CJA X 100 CAP                                                                                                  CJA       L009LUDBER                   21.00     1359.68                 01
+1.U3545UROVIC FORTE CJA X 100 TAB                                                                                              CJA       L009LUDBER                    8.00      840.68                 01
+1.A4524ALERXAL 10 MG CJA X 100 TAB                                                                                             CJA       L009LUDBER                   20.00      601.77                 01
+1.A9834ALERXAL 5MG/5ML FCO X 60 ML                                                                                             JBE       L009LUDBER                  104.00      863.40                 01
+1.D5642DIORFLAN CJA X 100 TAB                                                                                                  CJA       L009LUDBER                   50.00     3697.56                 01
+1.N6557NAPROXAL 550 CJA X 100 TAB REC                                                                                          CJA       L009LUDBER                   20.00      799.96                 01
+1.P5645PARAZITIL 500 MG CJA X 6 TAB                                                                                            CJA       L009LUDBER                  100.00     1376.87                 01
+1.F3655FLEYTOS FCO X 120 ML                                                                                                    FCO       L009LUDBER                   72.00      431.23                 01
+1.L6355LUDTYL CREMA TOPICA X 20 GR                                                                                             TBO       L009LUDBER                  216.00     1096.76                 01
+1.A3415ANAFIDOL 100 MG/5ML (IBUPROFENO) FCO X 60 ML                                                                            JBE       R005ROXFARMA                 39.00      243.75                 01
+1.C3654CRECIMAXI KIDS SUSP. X 120 ML                                                                                           FCO       R005ROXFARMA                 18.00      185.46                 01
+1.P6214PULMIEL GUAIFENESINA 100MG/5ML FCO X 120 ML                                                                             FCO       R005ROXFARMA                 38.00      215.93                 01
+1.M5452MUCOCETIL JBE 100MG/5ML (ACETILCISTEINA)                                                                                FCO       R005ROXFARMA                 24.00      262.53                 01
+1.L3426LAXULOSA 3.3 GR/5ML FCO X 100 ML                                                                                        FCO       R005ROXFARMA                 38.00      453.93                 01
+1.F2453FERVITAN PLUS FCO X 345 ML                                                                                              JBE       R005ROXFARMA                 35.00      482.53                 01
+1.F3466FURAZOLIDONA 50MG/5ML FCO X 120 ML (ROXFARMA)                                                                           JBE       R005ROXFARMA                 96.00      189.43                 01
+1.M5545MULTIVITAM CIP FCO X 345 ML                                                                                             FCO       R005ROXFARMA                 18.00      236.53                 01
+1.O2344OMEPRAZOL 20 MG CJA X 100 CAP (MC GLOBE)                                                                                CJA       S016SOZIN FLORA PHARMA      148.00     1229.48                 01
+2.G0003GUANTE DE EXAMEN T/M X 50 PARES (QUALATEX)                                                                              CJA       M008MATERIAL MEDICO          29.00      376.91                 01
+2.J6354JERINGA DESC. 5 ML C/A 21G/1 1/2 (HI-MED)                                                                               UND       J003JERINGAS                250.00       34.15                 01
+4.D0064DERMOLIP COLOR SPF 70 X 20 SACHETS                                                                                      DIS       L014LA COOPER                25.00      721.00                 01
+>
